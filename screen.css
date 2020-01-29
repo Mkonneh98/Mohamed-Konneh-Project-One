@@ -48,3 +48,14 @@ table {
 }
 
 /* Add custom style below...*/
+html {
+  padding: .5em;
+}
+h1 {
+  font-size: 2em;
+  padding: .25em;
+  padding-bottom: .5em;
+}
+p {
+  padding-bottom: .5em;
+}

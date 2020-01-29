@@ -49,13 +49,19 @@ table {
 
 /* Add custom style below...*/
 html {
-  padding: .5em;
+  padding: .75em;
+  word-spacing: 1px;
 }
 h1 {
   font-size: 2em;
-  padding: .25em;
+  font-style: serif;
+  padding: .5em;
   padding-bottom: .5em;
+  color: gold;
 }
 p {
+  padding: .5em;
   padding-bottom: .5em;
+  color: gold;
+  text-indent: 40px;
 }

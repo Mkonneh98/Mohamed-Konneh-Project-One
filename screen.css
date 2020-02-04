@@ -65,3 +65,7 @@ p {
   color: white;
   text-indent: 40px;
 }
+img {
+  display: block;
+  max-width: 100%;
+}

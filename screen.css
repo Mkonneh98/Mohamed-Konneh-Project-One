@@ -55,12 +55,16 @@ html {
 h1 {
   font-size: 2em;
   font-style: oblique;
+  line-height: 1.0em;
   padding: .5em;
-  padding-bottom: .5em;
   color: white;
+  border-bottom: .005em solid silver;
+  padding-bottom: .5em;
+  margin-bottom: 0.5em;
 }
 h1 b{
 	display: block;
+	color: #777;
 }
 p {
   padding: .5em;
